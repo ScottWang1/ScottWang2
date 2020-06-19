@@ -30,7 +30,7 @@ github_username:  ScottWang1
 blogName: 博客标题
 blogDesc: 博客介绍
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
